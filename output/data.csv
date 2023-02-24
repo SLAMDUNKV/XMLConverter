@@ -1,1 +1,8 @@
 рейс;время;направление;статус;тип;авиакомпания
+DP 111;09:20;Сочи;Прилёт;Boeing 737-800;Pobeda
+DP 205;10:25;Санкт-Петербург;Вылет;Sukhoi Superjet 100;Pobeda
+DP 839;08:35;Анталья;Прилёт;Boeing 737-800;Pobeda
+DP 324;09:20;Калининград;Вылет;Sukhoi Superjet 100;Pobeda
+DP 827;09:00;Минеральные Воды;Прилёт;Sukhoi Superjet 100;Pobeda
+FV 670;09:45;Ростов-на-Дону;Вылет;Airbus A319;Pobeda
+DP 935;10:35;Тверь;Вылет;Sukhoi Superjet 100;Pobeda
